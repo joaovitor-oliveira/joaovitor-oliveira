@@ -1,4 +1,4 @@
-### E aí, beleza? 👋
+### E aí, beleza?
 
 <!--
 **joaovitor-oliveira/joaovitor-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,13 +17,9 @@ Here are some ideas to get you started:
 
 - 🏠 Sou da região de Presidente Prudente, interior de São Paulo.
 
-- 💻 Possuo interesse em estudar e resolver problemas. 
+- 🌱 Atualmente estou concluindo minha graduação na UNOESTE e também estudando na Full Cycle.
 
-- 🌱 Atualmente estou estudando na Full Cycle.
-
-- 💼 Atualmente trabalho como instrutor na Trybe.
-
-- 📫 Contato: joaovitor.oliveira@protonmail.com
+- 📫 Contato: j.vitor_oliveira1@hotmail.com
 
 
 #### Tecnologias:
