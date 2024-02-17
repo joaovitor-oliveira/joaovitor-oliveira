@@ -1,4 +1,4 @@
-### E aí, beleza?
+### Bem-vindo
 
 <!--
 **joaovitor-oliveira/joaovitor-oliveira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🏠 Sou da região de Presidente Prudente, interior de São Paulo.
-
-- 🌱 Atualmente estou concluindo minha graduação na UNOESTE e também estudando na Full Cycle.
-
-- 📫 Contato: j.vitor_oliveira1@hotmail.com
+- Software Engineer
 
 
-#### Tecnologias:
-<img alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" /><img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><img alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /><img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen" />
-
+- Contato: j.vitor_oliveira1@hotmail.com
